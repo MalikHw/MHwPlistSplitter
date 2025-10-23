@@ -1,6 +1,8 @@
 ### MHwPlistSplitter
 converts .plist and .png's to Readable PNG's so you can edit or peek urself!
 
+***If you're looking to **merge** the sprites, i won't do the code cuz i wrote this one in 2 hours lol, so just Go to [GDColon's gdsplitter](https://gdcolon.com/gdsplitter/) website, then "Merge Sprites", put all of your pictures there (Make sure to select "Hd" or "uhd" if ur right)***
+
 ## How to install?
 ### Windows:
 - install [this crap](https://apps.microsoft.com/detail/9nq7512cxl7t) first
