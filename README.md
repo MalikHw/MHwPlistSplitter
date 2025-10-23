@@ -3,14 +3,15 @@ converts .plist and .png's to Readable PNG's so you can edit or peek urself!
 
 ## How to install?
 ### Windows:
-- install [this shit](https://apps.microsoft.com/detail/9nq7512cxl7t) first
-- if asked to add to PATH: allow
-- clone the repo
-- run "pip -r requirements.txt" on a cmd window There
+- install [this crap](https://apps.microsoft.com/detail/9nq7512cxl7t) first
+- if asked to add to PATH(and to install everything else): allow
+- clone the repo (if reading and u dont know shit click the green "Code" button on this page and "Download ZIP")
+- run "pip -r requirements.txt" on a cmd window There (if u also don't know shit click the address bar on top of the file Explorer button, and just write "cmd" then enter)
 - then just ur done
 ### Linux
 - run "pip install Pillow"
 - then the code (ofc yk what to do lol)
 
 
-Sub to my [youtube](https://youtube.com/@MalikHw47)
+Sub to my [YouTube](https://youtube.com/@MalikHw47)
+
