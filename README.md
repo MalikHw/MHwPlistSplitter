@@ -11,4 +11,6 @@ converts .plist and .png's to Readable PNG's so you can edit or peek urself!
 ### Linux
 - run "pip install Pillow"
 - then the code (ofc yk what to do lol)
+
+
 Sub to my [youtube](https://youtube.com/@MalikHw47)
